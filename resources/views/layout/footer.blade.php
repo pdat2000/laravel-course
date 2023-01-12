@@ -1,0 +1,1 @@
+<div style="background: salmon; height: 100px">Footer</div>
